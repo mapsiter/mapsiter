@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <picture><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></picture>
 <picture><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /></picture>
 <picture><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></picture>
+<br>
+<a href="https://codepen.io/mapsiter">https://codepen.io/mapsiter</a>
+<a href="https://www.weblings.co">https://www.weblings.co</a>
+<a href="https://countrywise.io/">https://countrywise.io/</a>
