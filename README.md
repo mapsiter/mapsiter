@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <picture><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /></picture>
 <picture><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></picture>
 <br><br>
-<a href="https://codepen.io/mapsiter"><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f517.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" width="72" height="72"> Codepen</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://codepen.io/mapsiter">Codepen</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.weblings.co">Weblings</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://countrywise.io/">Countrywise</a>
 
