@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <picture><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /></picture>
 <picture><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></picture>
 <br><br>
-<a href="https://codepen.io/mapsiter">🔗 Codepen</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-🔗 <a href="https://www.weblings.co">Weblings</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://codepen.io/mapsiter"><?xml version="1.0" ?><svg fill="none" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10 6H6C4.89543 6 4 6.89543 4 8V18C4 19.1046 4.89543 20 6 20H16C17.1046 20 18 19.1046 18 18V14M14 4H20M20 4V10M20 4L10 14" stroke="#4A5568" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg> Codepen</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<?xml version="1.0" ?><svg fill="none" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10 6H6C4.89543 6 4 6.89543 4 8V18C4 19.1046 4.89543 20 6 20H16C17.1046 20 18 19.1046 18 18V14M14 4H20M20 4V10M20 4L10 14" stroke="#4A5568" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/></svg> <a href="https://www.weblings.co">Weblings</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://countrywise.io/">Countrywise</a>
 
